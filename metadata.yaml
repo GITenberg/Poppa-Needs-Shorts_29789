@@ -1,0 +1,49 @@
+_repo: Poppa-Needs-Shorts_29789
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Richmond, Leigh
+    alias: Richmond, Leigh Tucker
+    birthdate: 1911
+    deathdate: 1995
+    gutenberg_agent_id: '34183'
+    url: http://www.gutenberg.org/2009/agents/34183
+  - agent_name: Richmond, Walt
+    alias: Richmond, Walter F.
+    birthdate: 1922
+    deathdate: 1977
+    gutenberg_agent_id: '34184'
+    url: http://www.gutenberg.org/2009/agents/34184
+description: Given valid data, you can reach completely wrong conclusions. But given
+  a wrong conclusion, you can still get a right answer!
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2009-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Electricity -- Fiction'
+- !lcsh 'Short stories'
+title: Poppa Needs Shorts
+url: http://www.gutenberg.org/ebooks/29789
